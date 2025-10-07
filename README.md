@@ -33,7 +33,7 @@ Berisi:
    kotlinc jualbeliemas.kt -include-runtime -d jualbeliemas.jar
    java -jar jualbeliemas.jar
 
-##🧠 Catatan
+## 🧠 Catatan
 Program ini berjalan interaktif di terminal.
 Hanya menggunakan input/output dasar (readLine() dan println()).
 Dapat dikembangkan untuk koneksi database atau GUI.
